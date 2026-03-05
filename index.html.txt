@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gitxels</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial;
+      background: #f0fdf4;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 { color: #22C55E; }
+    .card {
+      background: white;
+      padding: 15px;
+      border-radius: 12px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .price {
+      color: #15803D;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Gitxels</h1>
+
+<div class="card">
+  <h3>Phòng trọ trung tâm Việt Trì</h3>
+  <p class="price">2.500.000 VNĐ</p>
+  <p>Phòng sạch sẽ, gần trường học.</p>
+</div>
+
+<div class="card">
+  <h3>Phòng full nội thất</h3>
+  <p class="price">3.200.000 VNĐ</p>
+  <p>Có máy lạnh, tủ lạnh, wifi.</p>
+</div>
+
+</body>
+</html>
